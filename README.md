@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github4ta.github.io/rsschool-cv/cv
