@@ -2,9 +2,9 @@
 
 ## Sergei Tsarik
 
-e-mail: serge.tsarik@gmail.com </br>
-phone: +375296550009 </br>
-skype: serge.tsarik </br>
+- e-mail: serge.tsarik@gmail.com
+- phone: +375296550009
+- skype: serge.tsarik
 
 ### Summary
 > The development of mobile applications for Android is a perspective area ([Computerworld Magazine](https://www.computerworld.com/article/3331896/android-trends-2019.html)).
